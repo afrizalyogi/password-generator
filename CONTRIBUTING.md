@@ -1,4 +1,4 @@
-# Password Generator Project
+<h1>Password Generator Project &nbsp <a href="https://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/badge/License-MIT-blue.svg"/></a></h1>
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
 - Reporting a bug
@@ -6,6 +6,8 @@ We love your input! We want to make contributing to this project as easy and tra
 - Submitting a fix
 - Proposing new features
 - Becoming a maintainer
+
+<br>
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -16,8 +18,12 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+<br>
+
 ## Report bugs using Github [issues](https://github.com/afrizalyogi/pass-gen/issues)
 We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/afrizalyogi/pass-gen/issues/new) it's that easy!
+
+<br>
 
 ## Write bug reports with detail
 **Great Bug Reports** tend to have:
@@ -29,12 +35,13 @@ We use GitHub issues to track public bugs. Report a bug by [opening a new issue]
 
 People *love* thorough bug reports. I'm not even kidding.
 
+<br>
+
 ## License
 Copyright (c) Afrizal Yogi P. All rights reserved.
+
 This project is licensed under the MIT License. See `LICENSE` for more information.
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 <br>
 
 ### Made with ❤️ by Afrizal Yogi P
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
