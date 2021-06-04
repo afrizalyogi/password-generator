@@ -19,4 +19,10 @@ Thank you for all your contribution on this project.
 <br/>
 
 ## License
-Copyright (c) Afrizal Y
+Copyright (c) Afrizal Yogi P. All rights reserved.
+
+This project is licensed under the MIT License. See `LICENSE` for more information.
+
+<br/>
+
+### Made with ❤️ by Afrizal Yogi P
