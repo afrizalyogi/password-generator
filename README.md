@@ -2,7 +2,7 @@
 
 Random password generator for making a strong password that you can use
 
-<br>
+<br/>
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -13,13 +13,10 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<br>
+or you can just simply <a href="https://saweria.co/afrizalyogi" target="_blank">Support This Project</a>. 
+Thank you for all your contribution on this project.
+
+<br/>
 
 ## License
-Copyright (c) Afrizal Yogi P. All rights reserved.
-
-This project is licensed under the MIT License. See `LICENSE` for more information.
-
-<br>
-
-### Made with ❤️ by Afrizal Yogi P
+Copyright (c) Afrizal Y
