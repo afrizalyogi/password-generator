@@ -22,6 +22,10 @@
         transform: scale(1.5);
         transition: all 150ms ease;
     }
+    
+    .container .result:hover #btn-copy {
+        transform: none;
+    }
 }
 
 body {

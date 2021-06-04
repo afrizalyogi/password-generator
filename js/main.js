@@ -175,7 +175,8 @@ function disableOnlyCheckbox(){
 	totalChecked.forEach(el => {
 		if(totalChecked.length == 1){
 			el.disabled = true;
-		}else{
+		}
+		else{
 			el.disabled = false;
 		}
 	})
