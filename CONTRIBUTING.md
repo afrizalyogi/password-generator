@@ -18,6 +18,9 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+or you can just simply <a href="https://saweria.co/afrizalyogi" target="_blank">Support This Project</a>. 
+Thank you for all your contribution on this project.
+
 <br>
 
 ## Report bugs using Github [issues](https://github.com/afrizalyogi/pass-gen/issues)
