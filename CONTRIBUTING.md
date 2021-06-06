@@ -47,4 +47,4 @@ This project is licensed under the MIT License. See `LICENSE` for more informati
 
 <br>
 
-### Made with ❤️ by Afrizal Yogi P
+### Made with ❤️ by Afrizal Yogi
