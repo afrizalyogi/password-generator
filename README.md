@@ -4,6 +4,13 @@ Random password generator for making a strong password that you can use
 
 <br/>
 
+## License
+Copyright (c) Afrizal Yogi P. All rights reserved.
+
+This project is licensed under the MIT License. See `LICENSE` for more information.
+
+<br/>
+
 ## Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -18,10 +25,11 @@ Thank you for all your contribution on this project.
 
 <br/>
 
-## License
-Copyright (c) Afrizal Yogi P. All rights reserved.
-
-This project is licensed under the MIT License. See `LICENSE` for more information.
+## Shoutout to all Stargazers and Forkers
+<p>
+  <a href="https://github.com/afrizalyogi/password-generator/stargazers"><img src="https://reporoster.com/stars/afrizalyogi/password-generator" alt="Stargazers repo roster for @afrizalyogi/password-generator" height="100px"/></a>
+  <a href="https://github.com/afrizalyogi/password-generator/network/members"><img src="https://reporoster.com/forks/afrizalyogi/password-generator" alt="Forkers repo roster for @afrizalyogi/password-generator" height="100px"/></a>
+</p>
 
 <br/>
 
