@@ -33,4 +33,4 @@ Thank you for all your contribution on this project.
 
 <br/>
 
-### Made with ❤️ by Afrizal Yogi P
+### Made with ❤️ by Afrizal Yogi
